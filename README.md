@@ -2,7 +2,7 @@
 <h3 align="center">🚀 A Full-Stack Developer & Problem Solver from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Web+Developer;MERN+Stack+Engineer;Loves+Clean+%26+Scalable+Code;Open+Source+Contributor;Problem+Solver&center=true&width=600&height=45&color=1DD3B0&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Web+Developer;MERN+Stack+Engineer;Loves+Clean+%26+Scalable+Code;Problem+Solver&center=true&width=600&height=45&color=1DD3B0&vCenter=true&size=22">
 </p>
 
 ---
@@ -51,7 +51,7 @@ I'm a <strong>Third-Year CSE Student</strong> passionate about Full-Stack Web De
 ## 🧠 Problem-Solving Achievements
 
 <ul>
-  <li>✅ Solved <strong>135+ DSA problems</strong> on LeetCode, GFG, CodeStudio & HackerRank</li>
+  <li>✅ Solved <strong>140+ DSA problems</strong> on LeetCode, GFG, CodeStudio & HackerRank</li>
   <li>🏅 Ranked <strong>#1 in C++ Problem Solving</strong> on HackerRank</li>
   <li>💡 Passionate about writing efficient, readable code</li>
   <li>🧑‍💼 Codolio Profile: <a href="https://codolio.com/profile/mayur_Bhusare">mayur_Bhusare</a></li>
@@ -64,7 +64,7 @@ I'm a <strong>Third-Year CSE Student</strong> passionate about Full-Stack Web De
 <ul>
   <li>📌 <strong>Portfolio Website:</strong> <a href="https://bhusaremayur.github.io/portfolio/">bhusaremayur.github.io/portfolio</a></li>
   <li>📂 <strong>GitHub Profile:</strong> <a href="https://github.com/bhusareMayur">github.com/bhusareMayur</a></li>
-  <li>📁 Showcasing <strong>6+ full-stack repositories</strong> and ongoing personal development</li>
+  <li>📁 Showcasing <strong>10+ full-stack repositories</strong> and ongoing personal development</li>
 </ul>
 
 ---
@@ -80,11 +80,12 @@ To become a skilled <strong>Full-Stack Engineer</strong> by working on impactful
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhusareMayur&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhusareMayur&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bhusareMayur&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://streak-stats.demolab.com?user=bhusareMayur&theme=tokyonight&hide_border=false" height="160" />
 </p>
 
 ---
+
 
 ## 🤝 Let's Connect!
 
