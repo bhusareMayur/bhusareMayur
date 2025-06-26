@@ -77,16 +77,6 @@ To become a skilled <strong>Full-Stack Engineer</strong> by working on impactful
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhusareMayur&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://streak-stats.demolab.com?user=bhusareMayur&theme=tokyonight&hide_border=false" height="160" />
-</p>
-
----
-
-
 ## 🤝 Let's Connect!
 
 <p align="center">
