@@ -35,14 +35,14 @@ I'm a <strong>Third-Year CSE Student</strong> passionate about Full-Stack Web De
     <em>Stack:</em> Node.js, Express.js, JavaScript, CSV, Nodemailer
   </li><br/>
   <li>
-    <strong>🏨 Hotel Discovery Platform – MVC Web App</strong><br/>
+    <strong>🏨 TravaNest - Hotel Discovery and Listing Platform – MVC Web App</strong><br/>
     A platform where users explore hotels, leave reviews, and hosts manage property data.<br/>
     <em>Stack:</em> Node.js, Express.js, MongoDB, EJS
   </li><br/>
   <li>
     <strong>🧮 Academic Calculators</strong><br/>
     • Probability Calculator – 95% accuracy in solving statistical problems<br/>
-    • Civil Engineering Helper – Reduced manual effort by 30% with an auto-calculation tool
+    • Civil Engineering Helper – Reduced manual effort by 90% with an auto-calculation tool
   </li>
 </ol>
 
@@ -51,7 +51,7 @@ I'm a <strong>Third-Year CSE Student</strong> passionate about Full-Stack Web De
 ## 🧠 Problem-Solving Achievements
 
 <ul>
-  <li>✅ Solved <strong>140+ DSA problems</strong> on LeetCode, GFG, CodeStudio & HackerRank</li>
+  <li>✅ Solved <strong>150+ DSA problems</strong> on LeetCode, GFG, CodeStudio & HackerRank</li>
   <li>🏅 Ranked <strong>#1 in C++ Problem Solving</strong> on HackerRank</li>
   <li>💡 Passionate about writing efficient, readable code</li>
   <li>🧑‍💼 Codolio Profile: <a href="https://codolio.com/profile/mayur_Bhusare">mayur_Bhusare</a></li>
