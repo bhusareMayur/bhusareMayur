@@ -2,8 +2,9 @@
 <h3 align="center">🚀 A Full-Stack Developer & Problem Solver from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Web+Developer;MERN+Stack+Engineer;Loves+Clean+%26+Scalable+Code;Problem+Solver&center=true&width=600&height=45&color=1DD3B0&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Web+Developer;MERN+Stack+Engineer;150%2B+DSA+Problems+Solved;Competitive+Programmer;Clean+%26+Scalable+Code+Lover;Problem+Solver+%7C+Logic+Builder&center=true&width=600&height=45&color=1DD3B0&vCenter=true&size=22">
 </p>
+
 
 ---
 
