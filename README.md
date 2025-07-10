@@ -30,7 +30,7 @@ I'm a <strong>Third-Year CSE Student</strong> passionate about Full-Stack Web De
 
 ## 🚀 Projects & Applications
 
-<ol>
+<ul>
   <li>
     <strong>📬 Personalized Email Sender – Node.js</strong><br/>
     A bulk email platform that sends customized emails using CSV data and editable templates with SMTP support.<br/>
@@ -46,7 +46,7 @@ I'm a <strong>Third-Year CSE Student</strong> passionate about Full-Stack Web De
     • Probability Calculator – 95% accuracy in solving statistical problems<br/>
     • Civil Engineering Helper – Reduced manual effort by 90% with an auto-calculation tool
   </li>
-</ol>
+</ul>
 
 ---
 
