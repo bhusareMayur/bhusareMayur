@@ -2,7 +2,7 @@
 <h3 align="center">🚀 A Full-Stack Developer & Problem Solver from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;155%2B+DSA+Problems+Solved;Competitive+Programmer;Clean+%26+Scalable+Code+Enthusiast;Problem+Solver+%7C+Logic+Builder;Learning+by+Building+Real-World+Projects&center=true&width=700&height=45&color=1DD3B0&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;160%2B+DSA+Problems+Solved;Competitive+Programmer;Clean+%26+Scalable+Code+Enthusiast;Problem+Solver+%7C+Logic+Builder;Learning+by+Building+Real-World+Projects&center=true&width=700&height=45&color=1DD3B0&vCenter=true&size=22">
 </p>
 
 
@@ -53,7 +53,7 @@ I'm a <strong>Third-Year CSE Student</strong> passionate about Full-Stack Web De
 ## 🧠 Problem-Solving Achievements
 
 <ul>
-  <li>✅ Solved <strong>155+ DSA problems</strong> on LeetCode, GFG, CodeStudio & HackerRank</li>
+  <li>✅ Solved <strong>160+ DSA problems</strong> on LeetCode, GFG, CodeStudio & HackerRank</li>
   <li>🏅 Ranked <strong>#1 in C++ Problem Solving</strong> on HackerRank</li>
   <li>💡 Passionate about writing efficient, readable code</li>
   <li>🧑‍💼 Codolio Profile: <a href="https://codolio.com/profile/mayur_Bhusare">mayur_Bhusare</a></li>
