@@ -67,7 +67,6 @@ I'm a <strong>Third-Year CSE Student</strong> passionate about Full-Stack Web De
 <ul>
   <li>📌 <strong>Portfolio Website:</strong> <a href="https://bhusaremayur.github.io/portfolio/">bhusaremayur.github.io/portfolio</a></li>
   <li>📂 <strong>GitHub Profile:</strong> <a href="https://github.com/bhusareMayur">github.com/bhusareMayur</a></li>
-  <li>📁 Showcasing <strong>10+ full-stack repositories</strong> and ongoing personal development</li>
 </ul>
 
 ---
