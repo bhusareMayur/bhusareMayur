@@ -20,7 +20,7 @@ I'm a <strong>Third-Year CSE Student</strong> passionate about Full-Stack Web De
 ## 🛠️ Technical Skills & Strengths
 
 <ul>
-  <li>💻 Full-Stack Development (MERN: MongoDB, Express.js, React.js, Node.js)</li>
+  <li>💻 Full-Stack Development (MongoDB, Express.js, EJS, Node.js)</li>
   <li>🧩 Backend & API Development (MVC Architecture)</li>
   <li>📚 Strong grasp of Data Structures & Algorithms</li>
   <li>🛠️ Languages & Tools: C++, JavaScript, Java, EJS, HTML, CSS, Git, GitHub, Bootstrap</li>
