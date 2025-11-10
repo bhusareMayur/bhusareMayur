@@ -53,7 +53,7 @@ I'm a <strong>Third-Year CSE Student</strong> passionate about Full-Stack Web De
 ## 🧠 Problem-Solving Achievements
 
 <ul>
-  <li>✅ Solved <strong>282+ DSA problems</strong> on LeetCode, GFG, CodeStudio & HackerRank using Java
+  <li>✅ Solved <strong>280+ DSA problems</strong> on LeetCode, GFG, CodeStudio & HackerRank using Java
 </li>
   <li>🏅 Ranked <strong>#1 in C++ Problem Solving</strong> on HackerRank</li>
   <li>💡 Passionate about writing efficient, readable code</li>
