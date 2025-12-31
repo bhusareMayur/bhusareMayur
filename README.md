@@ -57,7 +57,6 @@ I'm a <strong>Third-Year CSE Student</strong> passionate about Full-Stack Web De
 </li>
   <li>🏅 Ranked <strong>#1 in C++ Problem Solving</strong> on HackerRank</li>
   <li>💡 Passionate about writing efficient, readable code</li>
-  <li>🧑‍💼 Codolio Profile: <a href="https://codolio.com/profile/mayur_Bhusare">mayur_Bhusare</a></li>
 </ul>
 
 ---
