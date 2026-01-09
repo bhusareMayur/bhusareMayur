@@ -1,93 +1,75 @@
-<h1 align="center">Hey there, I'm Mayur 👋</h1>
-<h3 align="center">🚀 A Full-Stack Developer & Problem Solver from India 🇮🇳</h3>
+# Hi, I’m Mayur Bhusare
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;350%2B+DSA+Problems+Solved;Competitive+Programmer;Clean+%26+Scalable+Code+Enthusiast;Problem+Solver+%7C+Logic+Builder;Learning+by+Building+Real-World+Projects&center=true&width=700&height=45&color=1DD3B0&vCenter=true&size=22">
-</p>
+I’m a backend-focused Computer Engineering student interested in building reliable, scalable systems and understanding how they behave under real-world constraints.
 
-
+Most of my learning comes from building and reasoning about systems rather than just coursework.
 
 ---
 
-## 👨‍💻 Who I Am
+## What I work on
 
-<p>
-I'm a <strong>Third-Year CSE Student</strong> passionate about Full-Stack Web Development and solving real-world problems using clean, scalable code. I love building user-focused products that blend functionality and creativity.
-</p>
-
----
-
-## 🛠️ Technical Skills & Strengths
-
-<ul>
-  <li>💻 Full-Stack Development (MongoDB, Express.js, EJS, Node.js)</li>
-  <li>🧩 Backend & API Development (MVC Architecture)</li>
-  <li>📚 Strong grasp of Data Structures & Algorithms</li>
-  <li>🛠️ Languages & Tools: C++, JavaScript, Java, EJS, HTML, CSS, Git, GitHub, Bootstrap</li>
-</ul>
+- Backend APIs using Node.js and Express
+- Asynchronous systems using message queues
+- Database design and data flow
+- System reliability (retries, idempotency, failure handling)
+- Core DSA and system fundamentals
 
 ---
 
-## 🚀 Projects & Applications
+## Featured Projects
 
-<ul>
-  <li>
-    <strong>📬 Personalized Email Sender – Node.js</strong><br/>
-    A bulk email platform that sends customized emails using CSV data and editable templates with SMTP support.<br/>
-    <em>Stack:</em> Node.js, Express.js, JavaScript, CSV, Nodemailer
-  </li><br/>
-  <li>
-    <strong>🏨 TravaNest - Hotel Discovery and Listing Platform – MVC Web App</strong><br/>
-    A platform where users explore hotels, leave reviews, and hosts manage property data.<br/>
-    <em>Stack:</em> Node.js, Express.js, MongoDB, EJS
-  </li><br/>
-  <li>
-    <strong>🧮 Academic Calculators</strong><br/>
-    • Probability Calculator – 95% accuracy in solving statistical problems<br/>
-    • Civil Engineering Helper – Reduced manual effort by 90% with an auto-calculation tool
-  </li>
-</ul>
+### Scalable Multi-Channel Notification System
+**Tech:** Node.js, RabbitMQ, Docker, MySQL  
+
+- Built an asynchronous notification service supporting Email / SMS / Push
+- Used message queues with workers for decoupled processing
+- Implemented retries with Dead Letter Queue (DLQ)
+- Designed idempotent consumers to avoid duplicate delivery
+- Added structured logging for failures and retries
+- Designed for horizontal scaling and fault tolerance
+
+🔗 https://github.com/bhusareMayur/notification-system
 
 ---
 
-## 🧠 Problem-Solving Achievements
+### NAMASTE ↔ ICD-11 Mapping Platform
+**Tech:** Node.js (Express), Python (Flask), NLP, REST APIs, FHIR  
 
-<ul>
-  <li>✅ Solved <strong>350+ DSA problems</strong> on LeetCode, GFG, CodeStudio & HackerRank using Java
-</li>
-  <li>🏅 Ranked <strong>#1 in C++ Problem Solving</strong> on HackerRank</li>
-  <li>💡 Passionate about writing efficient, readable code</li>
-</ul>
+- Built a backend system to map traditional medicine terms to ICD-11 standards
+- Implemented semantic search using TF-IDF and cosine similarity
+- Generated FHIR-compliant outputs for healthcare interoperability
+- Designed as a microservice-based architecture
 
----
-
-## 🌐 Portfolio & GitHub
-
-<ul>
-  <li>📌 <strong>Portfolio Website:</strong> <a href="https://bhusaremayur.github.io/portfolio/">bhusaremayur.github.io/portfolio</a></li>
-  <li>📂 <strong>GitHub Profile:</strong> <a href="https://github.com/bhusareMayur">github.com/bhusareMayur</a></li>
-</ul>
+🔗 https://github.com/bhusareMayur/Namaste-ICD11  
+🌐 https://namaste-icd11.onrender.com
 
 ---
 
-## 🎯 Career Goal
+## Experience
 
-<p>
-To become a skilled <strong>Full-Stack Engineer</strong> by working on impactful software, solving real-world problems, and contributing to innovative development teams.
-</p>
+**Full-Stack Developer — Lagnify (Freelance)**  
+- Built and deployed a production web platform used by real customers
+- Worked on backend workflows, admin systems, and deployment
+- Handled debugging, feature iteration, and system maintenance
 
 ---
 
-## 🤝 Let's Connect!
+## Technical Skills (Brief)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mayur-bhusare/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="mailto:mayurbhusare8262@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
-  </a>
-  <a href="https://bhusaremayur.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=web">
-  </a>
-</p>
+- **Languages:** JavaScript, Java, C++, Python  
+- **Backend:** Node.js, Express.js, REST APIs  
+- **Databases:** MySQL, MongoDB  
+- **Messaging & Infra:** RabbitMQ, Docker  
+- **Cloud (Basics):** AWS EC2, S3  
+- **Tools:** Git, Linux, Postman  
+
+---
+
+## Problem Solving
+
+- Solved 350+ DSA problems (LeetCode, GFG, CodeStudio)
+- Comfortable explaining trade-offs and approaches
+
+---
+
+I’m interested in backend / systems-focused internship roles where correctness, clarity, and reliability matter.
