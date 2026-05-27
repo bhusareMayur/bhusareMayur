@@ -1,45 +1,33 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mayur%20Bhusare&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Backend%20%26%20Distributed%20Systems%20Engineer&descAlignY=58&descSize=20&descColor=a78bfa&animation=fadeIn" />
+<!-- HEADER WAVE BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:4f46e5,100:0f172a&height=220&section=header&text=Mayur%20Bhusare&fontSize=65&fontColor=ffffff&fontAlignY=40&desc=Backend%20%26%20Distributed%20Systems%20Engineer&descAlignY=60&descSize=20&descColor=c4b5fd&animation=fadeIn&fontAlign=50" />
 
-<!-- ANIMATED TYPING -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=⚙️+Distributed+Systems+%7C+Reliability+Engineering;🔁+Queue+Systems+%7C+Worker+Pools+%7C+DLQ;🐹+Building+GoQueue%2B%2B+in+Go;🛡️+Fault-Tolerant+%7C+At-Least-Once+Delivery;%22Reliable+systems+expect+failure.%22" alt="Typing SVG" />
-</a>
+</div>
 
-<br/>
+<!-- TYPING SVG - FIXED -->
+<div align="center">
 
-<!-- SOCIAL BADGES -->
-<p>
-  <a href="mailto:mayurbhusare8262@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-mayurbhusare8262-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="YOUR_LEETCODE_URL">
-    <img src="https://img.shields.io/badge/LeetCode-1665_Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Now-a78bfa?style=for-the-badge&logo=firefox&logoColor=white"/>
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&height=60&lines=Building+Fault-Tolerant+Architectures+%F0%9F%94%A5;Queue+Systems+%7C+Workers+%7C+DLQ+%F0%9F%94%81;At-Least-Once+Delivery+Semantics+%F0%9F%9B%A1%EF%B8%8F;Distributed+Systems+in+Go+%F0%9F%90%B9;Reliable+systems+expect+failure+%E2%9A%99%EF%B8%8F)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=bhusareMayur&color=a78bfa&style=flat-square&label=Profile+Views" />
+</div>
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayurbhusare8262@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LeetCode](https://img.shields.io/badge/LeetCode_1665-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](YOUR_LEETCODE_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
+
+![Profile Views](https://komarev.com/ghpvc/?username=bhusareMayur&color=7c3aed&style=flat-square&label=Profile+Views)
 
 </div>
 
 ---
 
-<!-- ABOUT ME SECTION -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=3&section=header" width="100%"/>
-
-<br/>
-
 <table>
 <tr>
-<td valign="top" width="55%">
+<td width="55%" valign="top">
 
 ## 🧑‍💻 About Me
 
@@ -47,27 +35,27 @@
 name     : Mayur Bhusare
 role     : Backend & Distributed Systems Engineer
 location : India 🇮🇳
-status   : Building GoQueue++ 🚀
-passion  : Systems that survive real-world failure
+status   : Building GoQueue++ in Go 🚀
+focus    : Systems that survive real-world failure
+dsaRating: 1665 | 500+ Problems Solved
 ```
 
-I don't just write backend code — I **engineer reliability**.  
-My obsession is understanding *why* systems fail and building the primitives that make them recover.
+I don't just write backend code — I **engineer reliability**.
 
-- 🔁 Deep in **queues, retries, DLQs, idempotency**
-- 🐹 Mastering **Go** for concurrent, high-performance infra
-- 📡 Heavy focus on **observability** and structured failure modes
-- 🧠 **500+ DSA problems** · LeetCode Rating **1665**
-- 🔬 Learning beyond coursework, always
+My obsession is understanding *why* systems fail  
+and building primitives that make them **recover**.
+
+- ⚙️ Deep into **queues, retries, DLQs, idempotency**
+- 🐹 Mastering **Go** for high-performance infra
+- 📊 Heavy focus on **observability** & failure modes
+- 🔬 Always learning beyond coursework
 
 </td>
-<td valign="top" width="45%">
+<td width="45%" valign="top" align="center">
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhusareMayur&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake"/>
 
 </td>
 </tr>
@@ -75,302 +63,198 @@ My obsession is understanding *why* systems fail and building the primitives tha
 
 ---
 
-<!-- TECH STACK -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=50&text=⚡%20Tech%20Stack&fontSize=22&fontColor=ffffff&fontAlignY=70" width="100%"/>
-</div>
-
-<br/>
+## ⚡ Tech Stack
 
 <div align="center">
 
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=go,nodejs,js,python,java,cpp&theme=dark" />
-
-**Backend & Messaging**
-
-<img src="https://skillicons.dev/icons?i=express,rabbitmq,redis&theme=dark" />
-
-**Databases & DevOps**
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,docker&theme=dark" />
-
-**Testing & Tools**
-
-<img src="https://skillicons.dev/icons?i=jest,git,github,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=go,nodejs,js,python,java,cpp&perline=6&theme=dark" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=express,redis,rabbitmq,mysql,mongodb,docker&perline=6&theme=dark" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=jest,git,github,linux,vscode&perline=5&theme=dark" />
 
 </div>
-
-<br/>
 
 ---
 
-<!-- PROJECTS SECTION -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=50&text=🚀%20Featured%20Projects&fontSize=22&fontColor=ffffff&fontAlignY=70" width="100%"/>
-</div>
+## 🚀 Featured Projects
 
-<br/>
-
-<!-- PROJECT 1 -->
 <details open>
-<summary>
-  <b>🔥 &nbsp;Scalable Multi-Channel Notification System</b> &nbsp;
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-</summary>
-
+<summary><b>🔥 Scalable Multi-Channel Notification System</b></summary>
 <br/>
 
-> **Async notification delivery at scale — Email · SMS · Push — engineered to survive burst traffic and worker crashes.**
+> Async notification delivery — Email · SMS · Push — engineered for real-world failure.
+
+<div align="center">
 
 ```
-                        ┌─────────────────────────────────────────┐
-                        │         SYSTEM ARCHITECTURE             │
-                        └─────────────────────────────────────────┘
-
-  ┌──────────┐    ┌─────────────┐    ┌──────────────────┐    ┌──────────────┐
-  │  Client  │───▶│  REST API   │───▶│   RabbitMQ       │───▶│ Worker Pool  │
-  └──────────┘    └─────────────┘    │  Exchange/Queue  │    └──────┬───────┘
-                                     └─────────────────-┘           │
-                                              │                ┌─────▼──────┐
-                                        Retry Queue ◀──────── │  Delivery  │
-                                              │                │ Email/SMS/ │
-                                         DLQ Handler           │   Push     │
-                                              │                └────────────┘
-                                       Structured Logs
+  ┌──────────┐    ┌─────────────┐    ┌──────────────────┐    ┌──────────────────┐
+  │  Client  │───▶│  REST API   │───▶│    RabbitMQ      │───▶│   Worker Pool    │
+  └──────────┘    └─────────────┘    │  Queues/Routing  │    └────────┬─────────┘
+                                     └──────────────────┘             │
+                                              │               ┌───────▼──────────┐
+                                        ┌─────▼──────┐        │  Email / SMS     │
+                                        │ Retry Queue│        │  Push Delivery   │
+                                        └─────┬──────┘        └──────────────────┘
+                                              │
+                                        ┌─────▼──────┐
+                                        │    DLQ     │
+                                        └────────────┘
 ```
 
-<table>
-<tr>
-<td>
+</div>
 
-**⚙️ Engineering Features**
-- ✅ Worker-based async processing
-- ✅ Retry queues + Dead Letter Queue
-- ✅ Idempotent consumers (no duplicates)
-- ✅ Horizontal worker scalability
-- ✅ Structured logging for observability
-- ✅ Load tested with k6
+**Stack:** `Node.js` `RabbitMQ` `Docker` `MySQL` `k6`
 
-</td>
-<td>
+| ⚙️ Engineering | 🛡️ Reliability |
+|---|---|
+| Worker-based async processing | At-least-once delivery semantics |
+| Retry Queues + Dead Letter Queue | Worker crash recovery |
+| Idempotent consumers (no duplicates) | Fault isolation under burst traffic |
+| Horizontal worker scalability | Queue-based service decoupling |
+| Structured logging + observability | Retry handling for transient failures |
+| k6 load testing | Graceful degradation |
 
-**🛡️ Reliability Concepts**
-- At-least-once delivery semantics
-- Worker crash recovery
-- Queue-based service decoupling
-- Exponential backoff for transient failures
-- Fault isolation under burst traffic
-- Graceful degradation
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-[![View Repo](https://img.shields.io/badge/GitHub-notification--system-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhusareMayur/notification-system)
+[![View Repo](https://img.shields.io/badge/GitHub-notification--system-0D1117?style=for-the-badge&logo=github)](https://github.com/bhusareMayur/notification-system)
 
 </details>
 
-<br/>
+---
 
-<!-- PROJECT 2 -->
 <details open>
-<summary>
-  <b>⚙️ &nbsp;resilient-queue — Open Source Redis Job Queue</b> &nbsp;
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Open_Source-❤️-ff6b6b?style=flat-square"/>
-</summary>
-
+<summary><b>⚙️ resilient-queue — Open Source Redis Job Queue</b></summary>
 <br/>
 
-> **Redis-backed, fault-tolerant job queue with battle-hardened retry primitives.**
+> Redis-backed, fault-tolerant job queue focused on the primitives that matter.
+
+<div align="center">
 
 ```
-  Enqueue Job
-      │
-      ▼
-  ┌───────────┐     ┌─────────────┐     ┌───────────────┐
-  │  Redis    │────▶│   Worker    │────▶│   Execute     │
-  │  LPUSH    │     │  (BLPOP)    │     │   Handler     │
-  └───────────┘     └─────────────┘     └──────┬────────┘
-                                               │
-                                    ┌──────────┴──────────┐
-                                    │                     │
-                                ✅ Success            ❌ Failure
-                                    │                     │
-                                  Done         Exponential Backoff
+  Enqueue ──▶ Redis (LPUSH) ──▶ Worker (BLPOP) ──▶ Execute Handler
                                                           │
-                                                   Max Retries?
-                                                  /            \
-                                                No              Yes
-                                                 │               │
-                                            Retry Queue     💀 DLQ
+                                             ┌────────────┴────────────┐
+                                          ✅ Done              ❌ Failure
+                                                                    │
+                                                         Exponential Backoff
+                                                                    │
+                                                         ┌──────────┴──────────┐
+                                                        No                    Yes
+                                                         │                     │
+                                                    Retry Queue           💀 Dead Letter Queue
 ```
 
-- 🔂 Exponential backoff with jitter
-- 🔑 Idempotency key support
+</div>
+
+**Stack:** `Node.js` `Redis` `BLPOP` `Jest`
+
+- 🔂 Exponential backoff retries with jitter
 - 💀 Dead Letter Queue for exhausted jobs
+- 🔑 Idempotency key support
 - 🛑 Graceful shutdown (drain before exit)
 - ✅ Full Jest test coverage
 - 🌍 Open-source contributor friendly
 
-<br/>
-
-[![View Repo](https://img.shields.io/badge/GitHub-resilient--queue-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhusareMayur/resilient-queue)
-
-</details>
-
-<br/>
-
-<!-- PROJECT 3 -->
-<details>
-<summary>
-  <b>🏥 &nbsp;NAMASTE ↔ ICD-11 Healthcare Mapping Platform</b> &nbsp;
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLP-TF--IDF-blueviolet?style=flat-square"/>
-  <img src="https://img.shields.io/badge/FHIR-Compliant-00897B?style=flat-square"/>
-</summary>
-
-<br/>
-
-> **Bridging traditional medicine and global health standards through NLP and microservices.**
-
-```
-  Traditional Medicine Term
-            │
-            ▼
-  ┌──────────────────────┐
-  │   TF-IDF Engine      │  ◀── NLP Preprocessing
-  │   Cosine Similarity  │
-  └──────────┬───────────┘
-             │
-             ▼
-  ┌──────────────────────┐
-  │   ICD-11 Matcher     │  ◀── WHO Standard Codes
-  └──────────┬───────────┘
-             │
-             ▼
-  ┌──────────────────────┐
-  │   FHIR Output        │  ◀── Healthcare Interoperability
-  └──────────────────────┘
-```
-
-- 🔍 Semantic search with TF-IDF + cosine similarity
-- 🏥 FHIR-compliant output format
-- 🧩 Microservice architecture with REST APIs
-- 🌐 Live demo deployed on Render
-
-<br/>
-
-[![View Repo](https://img.shields.io/badge/GitHub-Namaste--ICD11-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhusareMayur/Namaste-ICD11)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-namaste--icd11.onrender.com-00C7B7?style=for-the-badge&logo=render&logoColor=white)](https://namaste-icd11.onrender.com)
+[![View Repo](https://img.shields.io/badge/GitHub-resilient--queue-0D1117?style=for-the-badge&logo=github)](https://github.com/bhusareMayur/resilient-queue)
 
 </details>
 
 ---
 
-<!-- CURRENT BUILD -->
+<details>
+<summary><b>🏥 NAMASTE ↔ ICD-11 Healthcare Mapping Platform</b></summary>
+<br/>
+
+> Bridging traditional medicine and global health standards through NLP and microservices.
+
+**Stack:** `Node.js` `Python` `NLP (TF-IDF)` `FHIR` `REST APIs`
+
+- 🔍 Semantic search with TF-IDF + cosine similarity
+- 🏥 FHIR-compliant healthcare output
+- 🧩 Microservice architecture
+- 🌐 REST-based inter-service communication
+
+[![View Repo](https://img.shields.io/badge/GitHub-Namaste--ICD11-0D1117?style=for-the-badge&logo=github)](https://github.com/bhusareMayur/Namaste-ICD11)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=render&logoColor=white)](https://namaste-icd11.onrender.com)
+
+</details>
+
+---
+
+## 🏗️ Currently Building
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=50&text=🏗️%20Currently%20Building&fontSize=22&fontColor=ffffff&fontAlignY=70" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:7c3aed,100:4f46e5&height=80&text=GoQueue%2B%2B&fontSize=42&fontColor=ffffff&fontAlign=50&desc=Distributed+Job+Processing+Engine+%E2%80%94+Written+in+Go&descSize=15&descColor=c4b5fd&descAlign=50&animation=twinkling" width="80%"/>
+
 </div>
 
 <br/>
 
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   ██████╗  ██████╗  ██████╗ ██╗   ██╗███████╗██╗   ██╗███████╗ ║
-║  ██╔════╝ ██╔═══██╗██╔═══██╗██║   ██║██╔════╝██║   ██║██╔════╝ ║
-║  ██║  ███╗██║   ██║██║   ██║██║   ██║█████╗  ██║   ██║█████╗   ║
-║  ██║   ██║██║   ██║██║▄▄ ██║██║   ██║██╔══╝  ██║   ██║██╔══╝   ║
-║  ╚██████╔╝╚██████╔╝╚██████╔╝╚██████╔╝███████╗╚██████╔╝███████╗ ║
-║   ╚═════╝  ╚═════╝  ╚══▀▀═╝  ╚═════╝ ╚══════╝ ╚═════╝ ╚══════╝ ║
-║                           + +                                    ║
-║          A Distributed Job Processing Engine in Go               ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
 ```go
 // GoQueue++ — Engineered for production failure scenarios
 type Engine struct {
-    Language       string   // Go — concurrency-first
-    Delivery       string   // "at-least-once"
-    RetryPolicy    Backoff  // exponential with jitter
-    DLQ            bool     // true — always
-    CrashRecovery  bool     // true
-    Observability  []string // {"metrics", "traces", "structured_logs"}
-    WorkerModel    string   // "goroutine pools + channels"
-    FaultTolerant  bool     // true — by design, not by accident
+    Language      string   // "Go — concurrency-first"
+    Delivery      string   // "at-least-once guaranteed"
+    RetryPolicy   Backoff  // exponential with jitter
+    DLQ           bool     // true — always
+    CrashRecovery bool     // true — workers self-heal
+    Observability []string // metrics · traces · structured logs
+    WorkerModel   string   // goroutine pools + channels
+    FaultTolerant bool     // true — by design, not accident
 }
 ```
 
 <div align="center">
 
 | Feature | Status |
-|---|---|
+|---|:---:|
 | 🔁 At-least-once delivery | 🔨 Building |
-| 💀 Retry + DLQ | 🔨 Building |
+| 💀 Retry + Dead Letter Queue | 🔨 Building |
 | 🛑 Worker crash recovery | 🔨 Building |
-| 📊 Observability (metrics + logs) | 🔨 Building |
-| ⚡ Concurrent goroutine pools | 🔨 Building |
-| 🧪 Chaos testing | 📋 Planned |
+| 📊 Metrics + Structured Logs | 🔨 Building |
+| ⚡ Goroutine worker pools | 🔨 Building |
+| 🧪 Chaos & fault injection tests | 📋 Planned |
 
 </div>
 
 ---
 
-<!-- GITHUB STATS -->
+## 📊 GitHub Stats
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=50&text=📊%20GitHub%20Stats&fontSize=22&fontColor=ffffff&fontAlignY=70" width="100%"/>
+
+<img height="195px" src="https://github-readme-stats.vercel.app/api?username=bhusareMayur&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&count_private=true" />
+<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhusareMayur&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
+
 </div>
 
-<br/>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=bhusareMayur&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" />
+
+</div>
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=bhusareMayur&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&rank_icon=github&count_private=true" />
-&nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhusareMayur&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=ffffff&langs_count=6" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=bhusareMayur&theme=midnight-purple&hide_border=true&background=0D1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=888888" />
+<img src="https://github-profile-trophy.vercel.app/?username=bhusareMayur&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" />
 
 </div>
 
 ---
 
-<!-- PHILOSOPHY -->
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e1b4b&height=2" width="100%"/>
 
 <br/>
 
 ```
-┌────────────────────────────────────────────────────────────────────────┐
-│                                                                        │
-│    If it hasn't failed yet, you haven't tested it hard enough.         │
-│    Build for recovery, not perfection.                                 │
-│                                                                        │
-│         "Reliable systems are built by engineers who expect failure."  │
-│                                                          — Mayur       │
-│                                                                        │
-└────────────────────────────────────────────────────────────────────────┘
+  ╔══════════════════════════════════════════════════════════════════════╗
+  ║  "Reliable systems are built by engineers who expect failure."       ║
+  ║                                                          — Mayur     ║
+  ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:4f46e5,100:7c3aed&height=120&section=footer"/>
 
-<!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+</div>
