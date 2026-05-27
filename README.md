@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Mayur%20Bhusare&fontAlign=50&fontAlignY=38&color=gradient&customColorList=12,20,24&desc=Backend%20%26%20Distributed%20Systems%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;text=Mayur%20Bhusare&amp;fontAlign=50&amp;fontAlignY=38&amp;color=gradient&amp;customColorList=12,20,24&amp;desc=Backend%20%26%20Distributed%20Systems%20Engineer&amp;descAlignY=58&amp;descSize=20&amp;animation=fadeIn" width="100%" />
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&height=55&lines=Building+Fault-Tolerant+Architectures+%F0%9F%94%A5;Queue+Systems+%7C+Workers+%7C+DLQ+%F0%9F%94%81;At-Least-Once+Delivery+Semantics+%F0%9F%9B%A1%EF%B8%8F;Distributed+Systems+in+Go+%F0%9F%90%B9;Reliable+systems+expect+failure+%E2%9A%99%EF%B8%8F)](https://git.io/typing-svg)
