@@ -249,8 +249,7 @@ and building primitives that make them **recover**.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,14,20&height=90&text=GoQueue%2B%2B&fontSize=48&fontColor=ffffff&fontAlign=50&desc=Distributed+Job+Processing+Engine+in+Go&descSize=16&descColor=c4b5fd&descAlign=50&animation=twinkling" width="80%"/>
-
+![GoQueue++](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,14,20&height=140&text=GoQueue%2B%2B&fontSize=42&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=Distributed%20Job%20Processing%20Engine%20in%20Go&descSize=18&descColor=c4b5fd&descAlign=50&descAlignY=68)
 </div>
 
 <br/>
