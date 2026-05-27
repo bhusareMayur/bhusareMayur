@@ -1,8 +1,6 @@
 <div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;text=Mayur%20Bhusare&amp;fontAlign=50&amp;fontAlignY=38&amp;color=gradient&amp;customColorList=12,20,24&amp;desc=Backend%20%26%20Distributed%20Systems%20Engineer&amp;descAlignY=58&amp;descSize=20&amp;animation=fadeIn" width="100%" />
-</p>
+![header](https://capsule-render.vercel.app/api?type=waving&height=220&text=Mayur%20Bhusare&fontAlign=50&fontAlignY=38&color=gradient&customColorList=12,20,24&desc=Backend%20Distributed%20Systems%20Engineer&descAlignY=58&descSize=20&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Backend+Distributed+Systems;Queue+Workers+DLQ;Reliable+Systems+Expect+Failure;Building+GoQueue%2B%2B)](https://git.io/typing-svg)
 
