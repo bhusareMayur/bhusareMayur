@@ -69,21 +69,20 @@ and building primitives that make them **recover**.
 
 <div align="center">
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=go,nodejs,js,python,java,cpp&perline=6&theme=dark" />
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=go,nodejs,js,python,java,cpp&theme=dark" />
+</p>
 
-<br/><br/>
+### Backend · Distributed Systems · Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=express,redis,rabbitmq,mysql,mongodb,docker&theme=dark" />
+</p>
 
-**Backend · Messaging · Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=express,redis,rabbitmq,mysql,mongodb,docker&perline=6&theme=dark" />
-
-<br/><br/>
-
-**Tools & Testing**
-<br/>
-<img src="https://skillicons.dev/icons?i=jest,git,github,linux,vscode&perline=5&theme=dark" />
+### Cloud · Tools · Testing
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,git,github,linux,vscode&theme=dark" />
+</p>
 
 </div>
 
