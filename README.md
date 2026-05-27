@@ -164,26 +164,51 @@ and building primitives that make them **recover**.
 
 <br/>
 
-> **Redis-backed, fault-tolerant job queue with battle-hardened retry primitives.**
+> **Redis-backed fault-tolerant job queue designed for reliable asynchronous processing, retries, and worker crash recovery.**
 
-```
-  ┌─────────────────────────────────────────────────────────────┐
-  │                                                             │
-  │   Enqueue ──▶ Redis LPUSH ──▶ Worker BLPOP ──▶ Execute     │
-  │                                                    │        │
-  │                                        ┌──────────┴──────┐ │
-  │                                        │                 │ │
-  │                                     ✅ Done         ❌ Fail │
-  │                                                        │   │
-  │                                            Exponential     │
-  │                                               Backoff      │
-  │                                                  │         │
-  │                                       ┌──────────┴──────┐  │
-  │                                      No                Yes  │
-  │                                       │                 │  │
-  │                                  Retry Queue       💀 DLQ  │
-  │                                                            │
-  └────────────────────────────────────────────────────────────┘
+```text
+┌──────────────────────────────────────────────────────────────────────┐
+│                                                                      │
+│  Client/API                                                          │
+│       │                                                              │
+│       ▼                                                              │
+│  ┌──────────────┐                                                    │
+│  │ Job Producer │                                                    │
+│  └──────┬───────┘                                                    │
+│         │                                                            │
+│         ▼                                                            │
+│   Redis Main Queue                                                   │
+│      (LPUSH)                                                         │
+│         │                                                            │
+│         ▼                                                            │
+│  ┌─────────────────────┐                                             │
+│  │ Concurrent Workers  │                                             │
+│  │  (BLPOP Consumers)  │                                             │
+│  └─────────┬───────────┘                                             │
+│            │                                                         │
+│            ▼                                                         │
+│      Execute Job                                                     │
+│            │                                                         │
+│    ┌───────┴────────┐                                                │
+│    │                │                                                │
+│    ▼                ▼                                                │
+│ ✅ Success       ❌ Failure                                           │
+│    │                │                                                │
+│    │                ▼                                                │
+│    │       Retry Strategy Engine                                     │
+│    │       ─ Exponential Backoff                                     │
+│    │       ─ Retry Counters                                          │
+│    │       ─ Delayed Requeue                                         │
+│    │                │                                                │
+│    │      ┌─────────┴──────────┐                                     │
+│    │      │                    │                                     │
+│    │      ▼                    ▼                                     │
+│    │  Retry Queue         Dead Letter Queue                          │
+│    │                           (DLQ)                                 │
+│    │                                                                  │
+│    └──────────────▶ Structured Logs / Metrics                        │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
 ```
 
 - 🔂 Exponential backoff with jitter
