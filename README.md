@@ -28,7 +28,7 @@ role     : Backend & Distributed Systems Engineer
 location : India 🇮🇳
 status   : Building GoQueue++ in Go 🚀
 focus    : Systems that survive real-world failure
-dsa      : 1665 Rating | 500+ Problems Solved
+dsa      : 1733 LeetCode Rating | Pupil@ Codeforces | 500+ Problems Solved
 ```
 
 I don't just write backend code — I **engineer reliability**.
