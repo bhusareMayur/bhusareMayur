@@ -94,7 +94,7 @@ and building primitives that make them **recover**.
 
 <br/>
 
-> **Async notification delivery at scale — Email · SMS · Push — engineered to survive burst traffic and worker crashes.**
+> **Async notification delivery at scale - Email · SMS · Push - engineered to survive burst traffic and worker crashes.**
 
 ```
   ┌──────────┐    ┌─────────────┐    ┌──────────────────┐
@@ -159,7 +159,7 @@ and building primitives that make them **recover**.
 <br/>
 
 <details open>
-<summary><b>⚙️ &nbsp;resilient-queue — Open Source Redis Job Queue</b> &nbsp;&nbsp;<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white"/> <img src="https://img.shields.io/badge/Open_Source-ff6b6b?style=flat-square&logo=opensourceinitiative&logoColor=white"/></summary>
+<summary><b>⚙️ &nbsp;resilient-queue - Open Source Redis Job Queue</b> &nbsp;&nbsp;<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white"/> <img src="https://img.shields.io/badge/Open_Source-ff6b6b?style=flat-square&logo=opensourceinitiative&logoColor=white"/></summary>
 
 <br/>
 
@@ -213,7 +213,7 @@ and building primitives that make them **recover**.
 - 🔂 Exponential backoff with jitter
 - 💀 Dead Letter Queue for exhausted jobs
 - 🔑 Idempotency key support
-- 🛑 Graceful shutdown — drains before exit
+- 🛑 Graceful shutdown - drains before exit
 - ✅ Full Jest test coverage
 - 🌍 Open-source contributor friendly
 
@@ -278,16 +278,16 @@ and building primitives that make them **recover**.
 <br/>
 
 ```go
-// GoQueue++ — Engineered for production failure scenarios
+// GoQueue++ - Engineered for production failure scenarios
 type Engine struct {
-    Language      string   // "Go — concurrency-first"
+    Language      string   // "Go - concurrency-first"
     Delivery      string   // "at-least-once guaranteed"
     RetryPolicy   Backoff  // exponential with jitter
-    DLQ           bool     // true — always
-    CrashRecovery bool     // true — workers self-heal
+    DLQ           bool     // true - always
+    CrashRecovery bool     // true - workers self-heal
     Observability []string // {"metrics", "traces", "structured_logs"}
     WorkerModel   string   // "goroutine pools + channels"
-    FaultTolerant bool     // true — by design, not accident
+    FaultTolerant bool     // true - by design, not accident
 }
 ```
 
@@ -334,7 +334,7 @@ type Engine struct {
 
 <br/>
 
-*— Mayur Bhusare*
+*- Mayur Bhusare*
 
 > **"Reliable systems are built by engineers who expect failure."**
 
