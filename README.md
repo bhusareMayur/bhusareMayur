@@ -89,7 +89,7 @@ Decoupled background worker ingesting 100+ job listings daily across 40+ CS role
 
 Published a Redis-backed queue library with retry orchestration, DLQ routing, idempotency guards, and graceful shutdown, available on npm with 500+ downloads. Managed semantic versioning and community contributions.
 
-[GitHub](https://github.com/bhusareMayur/resilient-queue) · [npm](https://www.npmjs.com/package/resilient-queue)
+[GitHub](https://github.com/bhusareMayur/resilient-queue) · [npm]([https://www.npmjs.com/package/resilient-queue](https://www.npmjs.com/package/@mayurbhusare/resilient-queue))
 
 ---
 
