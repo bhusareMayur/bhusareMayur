@@ -121,6 +121,7 @@ Published a Redis-backed queue library with retry orchestration, DLQ routing, id
 
 - LeetCode Knight | Contest Rating 1960+ | Top 3.05% Globally
 - Weekly Contest 508 - Rank 361/37,970 (Top 0.95%)
+- CodeForces Pupil
 - Recursion 3.0 - Runner-up
 
 ---
