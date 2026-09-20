@@ -24,7 +24,7 @@ role     : Backend & Distributed Systems Engineer
 location : Pune, India
 status   : GoQueue live - 2.9k req/sec, zero job loss
 focus    : Systems that survive real-world failure
-DSA      : LeetCode Knight | Contest Rating 1960+ | Top 3.05% Globally
+DSA      : LeetCode Knight | Contest Rating 1960+ | Top 3.05% Globally | CodeForces Pupil
 ```
 
 I don't just write backend code - I **engineer reliability**.
